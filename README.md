@@ -5,3 +5,4 @@ Merged fra pull request.
 
 
 <br> Håber snart det virker
+<br> en ting virkede, virker det her os?
